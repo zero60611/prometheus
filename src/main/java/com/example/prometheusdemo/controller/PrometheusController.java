@@ -37,7 +37,7 @@ public class PrometheusController {
         response.setBranchId("SYS");
         response.setBranchName("系統");
         response.setClassName("1");
-
+        System.out.println("測試");
         return response; // 回應自動轉換為 XML 格式
     }
 
