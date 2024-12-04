@@ -38,7 +38,7 @@ public class PrometheusController {
         response.setBranchName("系統");
         response.setClassName("1");
         System.out.println("測試");
-        System.out.println("測試-tag-2");
+        System.out.println("測試-tag-3");
         return response; // 回應自動轉換為 XML 格式
     }
 
